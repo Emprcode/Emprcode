@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
 
-- 👨‍💻 I am based in **Sydney, Australia**
+- 👨‍💻 I am based in **Sydney, Australia**.
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**.
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **E-Commerce Project**.
 
 - 🤝 You can see [My Portfolio](narayanaryal.com)
 
