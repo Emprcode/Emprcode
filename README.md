@@ -12,7 +12,7 @@
 
 - 🤝 You can see [My Portfolio](narayanaryal.com)
 
-- 💬 Ask me about **React, MongoDb, Node and more.**
+- 💬 Ask me about **JavaScript, React, MongoDb, Node and more.**
 
 - 📫 How to reach me **narayanaryal.code@gmail.com**
 
