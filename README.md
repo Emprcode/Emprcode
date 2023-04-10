@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Narayan Aryal</h1>
 <h3 align="center">Software Engineer || Full stack MERN Developer</h3>
 <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="coding"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emprcode" alt="emprcode" /></a> </p>
+- 👨‍💻 I am based in **Sydney, Australia**
 
-- 👨‍💻 I am based in **Sydney, Australia**.
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack Development**.
-
-- 🔭 I’m currently working on **Full Stack E-Commerce Project**.
+- 🔭 I’m currently working on **E-Commerce Project**
 
 - 🤝 You can see [My Portfolio](narayanaryal.com)
 
