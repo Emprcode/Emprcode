@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Project**.
 
-- 🤝 You can see [My Portfolio](narayanaryal.com)
+- 🤝 You can see [My Portfolio](narayanaryal.com).
 
 - 💬 Ask me about **JavaScript, React, MongoDb, Node and more.**
 
