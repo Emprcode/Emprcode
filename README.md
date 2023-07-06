@@ -6,7 +6,7 @@
 
 - 👨‍💻 I am based in **Sydney, Australia**.
 
-- 🌱 I’m currently learning **MERN Stack Development**.
+- 🌱 I’m currently developing **MERN Stack Project**.
 
 - 🔭 I’m currently working on **E-Commerce Project**.
 
