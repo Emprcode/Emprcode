@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently developing **MERN Stack Project**.
 
-- 🔭 I’m currently working on **E-Commerce Project**.
-
 - 🤝 You can see [My Portfolio](narayanaryal.com).
 
 - 💬 Ask me about **JavaScript, React, MongoDb, Node and more.**
 
-- 📫 How to reach me **narayanaryal.code@gmail.com**
+- 📫 How to reach me **n.aryal7000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
