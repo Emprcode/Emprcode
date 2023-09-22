@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently developing **MERN Stack Project**.
 
-- 🤝 You can see [My Portfolio](narayanaryal.com).
-
 - 💬 Ask me about **JavaScript, React, MongoDb, Node and more.**
 
 - 📫 How to reach me **n.aryal7000@gmail.com**
