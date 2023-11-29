@@ -6,9 +6,9 @@
 
 - 👨‍💻 I am based in **Sydney, Australia**.
 
-- 🌱 I’m currently developing **MERN Stack Project**.
+- 🌱 I’m currently learning **AWS**.
 
-- 💬 Ask me about **JavaScript, React, MongoDb, Node and more.**
+- 💬 Ask me about **JavaScript, TypeScript, React, MongoDb, Node, AWS and more.**
 
 - 📫 How to reach me **n.aryal7000@gmail.com**
 
