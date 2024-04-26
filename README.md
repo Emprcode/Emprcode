@@ -6,7 +6,7 @@
 
 - 👨‍💻 I am based in **Sydney, Australia**.
 
-- 🌱 I’m currently learning **AWS**.
+- 🌱 I’m currently exploring **AWS**.
 
 - 💬 Ask me about **JavaScript, TypeScript, React, MongoDb, Node, AWS and more.**
 
