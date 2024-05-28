@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan Aryal</h1>
-<h3 align="center">Software Engineer || Full stack MERN Developer</h3>
+<h3 align="center">Software Engineer </h3>
 <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
