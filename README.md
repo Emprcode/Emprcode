@@ -6,11 +6,11 @@
 
 - 👨‍💻 I am based in **Sydney, Australia**.
 
-- 🌱 I’m currently exploring **AWS**.
+- 🌱 I’m currently working on different projects, **AWS**.
 
 - 💬 Ask me about **JavaScript, TypeScript, React, MongoDb, Node, AWS and more.**
 
-- 📫 How to reach me **n.aryal7000@gmail.com**
+- 📫 How to reach me **aryalnarayan717@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
