@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Narayan Aryal</h1>
-<h3 align="center">Software Engineer </h3>
+<h1 align="left">Hi there 👋 </h1>
 <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
 
-- 👨‍💻 I am based in **Sydney, Australia**.
+- 👨‍💻 I am a Full Stack Developer. I am based in Sydney, Australia. I keen to learn Python.
 
-- 🌱 I’m currently working on different projects.
+- 🌱 I’m currently learning AWS architecture.
 
-- 💬 Ask me about **JavaScript, TypeScript, React, MongoDb, Node, AWS and more.**
+<h3 align="left">My Tech Stack:</h3>
+- Front-end: HTML, CSS, SASS, JavaScript ES6+, TypeScript, React.js, Next.js, Redux toolkit, React-Router-Dom, BootStrap, Tailwind CSS, Material UI
+- Back-end: Node.js, Express.js, RestAPIs
+- DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (IaC), Amazon CloudWatch, AWS CLI and SDKs
 
 - 📫 How to reach me **aryalnarayan717@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naryal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naryal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naryal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
