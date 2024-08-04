@@ -8,11 +8,17 @@
 - 🌱 I’m currently learning AWS architecture and keen to learn Python.
 
 <h3 align="left">My Tech Stack:</h3>
+
 - Front-end: HTML, CSS, SASS, JavaScript ES6+, TypeScript, React.js, Next.js, Redux toolkit, React-Router-Dom, BootStrap, Tailwind CSS, Material UI
+  
 - Back-end: Node.js, Express.js, RestAPIs
+
 - DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (IaC), Amazon CloudWatch, AWS CLI and SDKs
+  
 - Database: MongoDB, DynamoDB
+  
 - Deployment: AWS, Docker, Netlify, Vercel, Render
+  
 - Version Control: Git, GitHub
 
 - 📫 How to reach me **aryalnarayan717@gmail.com**
