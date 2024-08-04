@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
 
-- 👨‍💻 I am a Full Stack Developer. I am based in Sydney, Australia. I keen to learn Python.
+- 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia. I keen to learn Python.
 
 - 🌱 I’m currently learning AWS architecture.
 
@@ -14,6 +14,9 @@
 - Back-end: Node.js, Express.js, RestAPIs
 
 - DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (IaC), Amazon CloudWatch, AWS CLI and SDKs
+- Database: MongoDB, DynamoDB
+- Deployment: AWS, Docker, Netlify, Vercel, Render
+- Version Control: Git, GitHub
 
 - 📫 How to reach me **aryalnarayan717@gmail.com**
 
