@@ -13,7 +13,7 @@
   
 - Back-end: Node.js, Express.js, RestAPIs
 
-- DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (IaC), Amazon CloudWatch, AWS CLI and SDKs
+- DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (Terrafrom), Amazon CloudWatch, AWS CLI and CDKs\
   
 - Database: MongoDB, DynamoDB
   
