@@ -5,7 +5,9 @@
 
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
-- 🌱 I’m currently learning AWS and IAC(Terraform).
+- 🌱 I’m currently exploring AWS and IAC(Terraform).
+
+- 🤝 I’m open to new opportunities. 
 
 <h3 align="left">My Tech Stack:</h3>
 
@@ -13,7 +15,7 @@
   
 - Back-end: Node.js, Express.js, RestAPIs
 
-- DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (CloudFormation & Terrafrom), Amazon CloudWatch, AWS CDK & SDKs
+- DevOps & Cloud Solutions: AWS services (EC2, S3, RDS, Lambda, etc.), Infrastructure as Code (CloudFormation & Terraform), Amazon CloudWatch, AWS CDK & SDKs
   
 - Database: MongoDB, DynamoDB
   
