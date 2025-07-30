@@ -5,7 +5,7 @@
 
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
-- 🌱 I’m currently exploring AWS and IAC(Terraform).
+- 🌱 I’m currently learning AWS and IAC(Terraform).
 
 - 🤝 I’m open to new opportunities. 
 
