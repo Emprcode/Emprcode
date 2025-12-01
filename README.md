@@ -11,7 +11,7 @@
 
 <h3 align="left">My Tech Stack:</h3>
 
-- Front-end: HTML, CSS, SASS, JavaScript ES6+, TypeScript, React.js, Next.js, Redux toolkit, React-Router-Dom, BootStrap, Tailwind CSS, Material UI
+- Front-end: HTML, CSS, SASS, JavaScript ES6+, TypeScript, React.js, Next.js, Redux toolkit, Zustand, React-Router-Dom, BootStrap, Tailwind CSS, Material UI
   
 - Back-end: Node.js, Express.js, RestAPIs
 
