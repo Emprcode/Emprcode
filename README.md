@@ -1,8 +1,6 @@
 <h1 align="left">Hi there 👋 </h1>
 <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="coding"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emprcode&label=Profile%20views&color=0e75b6&style=flat" alt="emprcode" /> </p>
-
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
 - 🌱 I’m currently learning AWS and IAC(Terraform).
