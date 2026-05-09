@@ -1,5 +1,4 @@
 <h1 align="left">Hi there 👋 </h1>
-<img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="coding"/>
 
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
