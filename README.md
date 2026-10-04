@@ -2,9 +2,7 @@
 
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
-- ☁️ Currently expanding my skills in Cloud and DevOps, working with AWS, Terraform, Docker, and CI/CD pipelines using GitHub Actions.
-
-- 🌱 Building and deploying applications while learning cloud infrastructure, automation, and scalable systems.
+- ☁️ I work with AWS, Terraform, Docker, and CI/CD pipelines using GitHub Actions to build scalable applications and cloud infrastructure.
 
 - 🤝 I’m open to new opportunities. 
 
