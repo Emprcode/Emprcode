@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am a Full Stack Software Engineer. I am based in Sydney, Australia.
 
-- ☁️ I work with Typescript, React,Next.js Node.js, AWS, Terraform, Docker, and CI/CD pipelines using GitHub Actions to build scalable applications and cloud infrastructure.
+- ☁️ I work with Typescript, React, Next.js, Node.js, AWS, Terraform, Docker, and CI/CD pipelines using GitHub Actions to build scalable applications and cloud infrastructure.
 
 - 🤝 I’m open to new opportunities. 
 
